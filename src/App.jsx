@@ -14,7 +14,7 @@ function App() {
     
             
         <Navbar/>  {/* -----------navbar------------ */}
-        <Spline className="h-10 w-12" scene="https://prod.spline.design/cfeQ2qffB9GGFHBb/scene.splinecode" />
+{/*         <Spline className="h-10 w-12" scene="https://prod.spline.design/cfeQ2qffB9GGFHBb/scene.splinecode" /> */}
             
         <HeroSection/>   {/* ----------heroSection ------------ */}
             
